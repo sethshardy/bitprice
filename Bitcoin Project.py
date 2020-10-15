@@ -1,1 +1,1 @@
-#The Python and weekly average files unfortunately corrupted (which I only found out when uploading htem here)
+#The Python and weekly average files unfortunately corrupted, I only found this out when uploading them here.
